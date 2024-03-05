@@ -1,0 +1,8 @@
+# ninja log v5
+11	1790	7313600070794493	CMakeFiles/main.dir/main.cpp.obj	307acbd50144261c
+144	2676	7313600078925072	CMakeFiles/main.dir/fraction.cpp.obj	d83bf92ac9ade33a
+230	2713	7313600079535121	CMakeFiles/main.dir/nod.cpp.obj	1517a0ec0bb1892e
+2713	3829	7313600089795908	main.exe	b8cd3d37b1da80ba
+11	2130	7313600858154590	CMakeFiles/main.dir/main.cpp.obj	307acbd50144261c
+63	2261	7313600860624760	CMakeFiles/main.dir/fraction.cpp.obj	d83bf92ac9ade33a
+115	2306	7313600861084801	CMakeFiles/main.dir/nod.cpp.obj	1517a0ec0bb1892e
